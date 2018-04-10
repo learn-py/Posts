@@ -1,0 +1,696 @@
+INFO:root:*** 
+
+INFO:root:--- 
+
+INFO:root:***************
+
+INFO:root:*** 1,15 ****
+
+INFO:root:! Before Insertions: Number of keys in tree: 1; Is 'cat' in tree? No; Is  in tree? Yes
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  
+
+INFO:root:- 
+
+INFO:root:  INORDER tree traversal
+
+INFO:root:- 
+
+INFO:root:  
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  
+
+INFO:root:! 
+
+INFO:root:! After Insertions: Number of keys in tree: 8; Is 'cat' in tree? No; Is Doc in tree? Yes
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  Grumpy Doc Bashful Dopey Sleepy Happy Sneezy 
+
+INFO:root:--- 1,13 ----
+
+INFO:root:! 
+
+INFO:root:! Before Insertions: Number of keys in tree: 0; Is 'cat' in tree? No; Is  in tree? Yes
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  
+
+INFO:root:  INORDER tree traversal
+
+INFO:root:  
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  
+
+INFO:root:! After Insertions: Number of keys in tree: 7; Is 'cat' in tree? No; Is Doc in tree? Yes
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  Grumpy Doc Bashful Dopey Sleepy Happy Sneezy 
+
+INFO:root:***************
+
+INFO:root:*** 20,26 ****
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  Bashful Dopey Doc Happy Sneezy Sleepy Grumpy 
+
+INFO:root:  
+
+INFO:root:! After removing Grumpy: Number of keys in tree: 7; Is 'cat' in tree? No; Is Grumpy in tree? No
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  Dopey Doc Bashful Sleepy Happy Sneezy 
+
+INFO:root:--- 18,24 ----
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  Bashful Dopey Doc Happy Sneezy Sleepy Grumpy 
+
+INFO:root:  
+
+INFO:root:! After removing Grumpy: Number of keys in tree: 6; Is 'cat' in tree? No; Is Grumpy in tree? No
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  Dopey Doc Bashful Sleepy Happy Sneezy 
+
+INFO:root:***************
+
+INFO:root:*** 31,37 ****
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  Bashful Doc Happy Sneezy Sleepy Dopey 
+
+INFO:root:  
+
+INFO:root:! After removing Sleepy: Number of keys in tree: 6; Is 'cat' in tree? No; Is Sleepy in tree? No
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  Dopey Doc Bashful Happy Sneezy 
+
+INFO:root:--- 29,35 ----
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  Bashful Doc Happy Sneezy Sleepy Dopey 
+
+INFO:root:  
+
+INFO:root:! After removing Sleepy: Number of keys in tree: 5; Is 'cat' in tree? No; Is Sleepy in tree? No
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  Dopey Doc Bashful Happy Sneezy 
+
+INFO:root:***************
+
+INFO:root:*** 42,48 ****
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  Bashful Doc Sneezy Happy Dopey 
+
+INFO:root:  
+
+INFO:root:! After removing Sneezy: Number of keys in tree: 5; Is 'cat' in tree? No; Is Sneezy in tree? No
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  Dopey Doc Bashful Happy 
+
+INFO:root:--- 40,46 ----
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  Bashful Doc Sneezy Happy Dopey 
+
+INFO:root:  
+
+INFO:root:! After removing Sneezy: Number of keys in tree: 4; Is 'cat' in tree? No; Is Sneezy in tree? No
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  Dopey Doc Bashful Happy 
+
+INFO:root:***************
+
+INFO:root:*** 53,59 ****
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  Bashful Doc Happy Dopey 
+
+INFO:root:  
+
+INFO:root:! After removing Doc: Number of keys in tree: 4; Is 'cat' in tree? No; Is Doc in tree? No
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  Dopey Bashful Happy 
+
+INFO:root:--- 51,57 ----
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  Bashful Doc Happy Dopey 
+
+INFO:root:  
+
+INFO:root:! After removing Doc: Number of keys in tree: 3; Is 'cat' in tree? No; Is Doc in tree? No
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  Dopey Bashful Happy 
+
+INFO:root:***************
+
+INFO:root:*** 64,70 ****
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  Bashful Happy Dopey 
+
+INFO:root:  
+
+INFO:root:! After removing Bashful: Number of keys in tree: 3; Is 'cat' in tree? No; Is Bashful in tree? No
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  Dopey Happy 
+
+INFO:root:--- 62,68 ----
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  Bashful Happy Dopey 
+
+INFO:root:  
+
+INFO:root:! After removing Bashful: Number of keys in tree: 2; Is 'cat' in tree? No; Is Bashful in tree? No
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  Dopey Happy 
+
+INFO:root:***************
+
+INFO:root:*** 75,81 ****
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  Happy Dopey 
+
+INFO:root:  
+
+INFO:root:! After removing Dopey: Number of keys in tree: 2; Is 'cat' in tree? No; Is Dopey in tree? No
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  Happy 
+
+INFO:root:--- 73,79 ----
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  Happy Dopey 
+
+INFO:root:  
+
+INFO:root:! After removing Dopey: Number of keys in tree: 1; Is 'cat' in tree? No; Is Dopey in tree? No
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  Happy 
+
+INFO:root:***************
+
+INFO:root:*** 86,97 ****
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  Happy 
+
+INFO:root:  
+
+INFO:root:! After removing Happy: Number of keys in tree: 1; Is 'cat' in tree? No; Is Happy in tree? No
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  
+
+INFO:root:- 
+
+INFO:root:  INORDER tree traversal
+
+INFO:root:  
+
+INFO:root:- 
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:--- 84,93 ----
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  Happy 
+
+INFO:root:  
+
+INFO:root:! After removing Happy: Number of keys in tree: 0; Is 'cat' in tree? No; Is Happy in tree? No
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  
+
+INFO:root:  INORDER tree traversal
+
+INFO:root:  
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:+ 
+
+INFO:root:- Before Insertions: Number of keys in tree: 1; Is 'cat' in tree? No; Is  in tree? Yes
+
+INFO:root:?                                            ^
+
+INFO:root:+ Before Insertions: Number of keys in tree: 0; Is 'cat' in tree? No; Is  in tree? Yes
+
+INFO:root:?                                            ^
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  
+
+INFO:root:- 
+
+INFO:root:  INORDER tree traversal
+
+INFO:root:- 
+
+INFO:root:  
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  
+
+INFO:root:- 
+
+INFO:root:- After Insertions: Number of keys in tree: 8; Is 'cat' in tree? No; Is Doc in tree? Yes
+
+INFO:root:?                                           ^
+
+INFO:root:+ After Insertions: Number of keys in tree: 7; Is 'cat' in tree? No; Is Doc in tree? Yes
+
+INFO:root:?                                           ^
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  Grumpy Doc Bashful Dopey Sleepy Happy Sneezy 
+
+INFO:root:  
+
+INFO:root:  INORDER tree traversal
+
+INFO:root:  Bashful Doc Dopey Grumpy Happy Sleepy Sneezy 
+
+INFO:root:  
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  Bashful Dopey Doc Happy Sneezy Sleepy Grumpy 
+
+INFO:root:  
+
+INFO:root:- After removing Grumpy: Number of keys in tree: 7; Is 'cat' in tree? No; Is Grumpy in tree? No
+
+INFO:root:?                                                ^
+
+INFO:root:+ After removing Grumpy: Number of keys in tree: 6; Is 'cat' in tree? No; Is Grumpy in tree? No
+
+INFO:root:?                                                ^
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  Dopey Doc Bashful Sleepy Happy Sneezy 
+
+INFO:root:  
+
+INFO:root:  INORDER tree traversal
+
+INFO:root:  Bashful Doc Dopey Happy Sleepy Sneezy 
+
+INFO:root:  
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  Bashful Doc Happy Sneezy Sleepy Dopey 
+
+INFO:root:  
+
+INFO:root:- After removing Sleepy: Number of keys in tree: 6; Is 'cat' in tree? No; Is Sleepy in tree? No
+
+INFO:root:?                                                ^
+
+INFO:root:+ After removing Sleepy: Number of keys in tree: 5; Is 'cat' in tree? No; Is Sleepy in tree? No
+
+INFO:root:?                                                ^
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  Dopey Doc Bashful Happy Sneezy 
+
+INFO:root:  
+
+INFO:root:  INORDER tree traversal
+
+INFO:root:  Bashful Doc Dopey Happy Sneezy 
+
+INFO:root:  
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  Bashful Doc Sneezy Happy Dopey 
+
+INFO:root:  
+
+INFO:root:- After removing Sneezy: Number of keys in tree: 5; Is 'cat' in tree? No; Is Sneezy in tree? No
+
+INFO:root:?                                                ^
+
+INFO:root:+ After removing Sneezy: Number of keys in tree: 4; Is 'cat' in tree? No; Is Sneezy in tree? No
+
+INFO:root:?                                                ^
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  Dopey Doc Bashful Happy 
+
+INFO:root:  
+
+INFO:root:  INORDER tree traversal
+
+INFO:root:  Bashful Doc Dopey Happy 
+
+INFO:root:  
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  Bashful Doc Happy Dopey 
+
+INFO:root:  
+
+INFO:root:- After removing Doc: Number of keys in tree: 4; Is 'cat' in tree? No; Is Doc in tree? No
+
+INFO:root:?                                             ^
+
+INFO:root:+ After removing Doc: Number of keys in tree: 3; Is 'cat' in tree? No; Is Doc in tree? No
+
+INFO:root:?                                             ^
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  Dopey Bashful Happy 
+
+INFO:root:  
+
+INFO:root:  INORDER tree traversal
+
+INFO:root:  Bashful Dopey Happy 
+
+INFO:root:  
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  Bashful Happy Dopey 
+
+INFO:root:  
+
+INFO:root:- After removing Bashful: Number of keys in tree: 3; Is 'cat' in tree? No; Is Bashful in tree? No
+
+INFO:root:?                                                 ^
+
+INFO:root:+ After removing Bashful: Number of keys in tree: 2; Is 'cat' in tree? No; Is Bashful in tree? No
+
+INFO:root:?                                                 ^
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  Dopey Happy 
+
+INFO:root:  
+
+INFO:root:  INORDER tree traversal
+
+INFO:root:  Dopey Happy 
+
+INFO:root:  
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  Happy Dopey 
+
+INFO:root:  
+
+INFO:root:- After removing Dopey: Number of keys in tree: 2; Is 'cat' in tree? No; Is Dopey in tree? No
+
+INFO:root:?                                               ^
+
+INFO:root:+ After removing Dopey: Number of keys in tree: 1; Is 'cat' in tree? No; Is Dopey in tree? No
+
+INFO:root:?                                               ^
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  Happy 
+
+INFO:root:  
+
+INFO:root:  INORDER tree traversal
+
+INFO:root:  Happy 
+
+INFO:root:  
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:  Happy 
+
+INFO:root:  
+
+INFO:root:- After removing Happy: Number of keys in tree: 1; Is 'cat' in tree? No; Is Happy in tree? No
+
+INFO:root:?                                               ^
+
+INFO:root:+ After removing Happy: Number of keys in tree: 0; Is 'cat' in tree? No; Is Happy in tree? No
+
+INFO:root:?                                               ^
+
+INFO:root:  
+
+INFO:root:  PREORDER tree traversal
+
+INFO:root:  
+
+INFO:root:- 
+
+INFO:root:  INORDER tree traversal
+
+INFO:root:  
+
+INFO:root:- 
+
+INFO:root:  POSTORDER tree traversal
+
+INFO:root:+ 
+- Before Insertions: Number of keys in tree: 1; Is 'cat' in tree? No; Is  in tree? Yes
+?                                            ^
++ Before Insertions: Number of keys in tree: 0; Is 'cat' in tree? No; Is  in tree? Yes
+?                                            ^
+  
+  PREORDER tree traversal
+  
+- 
+  INORDER tree traversal
+- 
+  
+  POSTORDER tree traversal
+  
+- 
+- After Insertions: Number of keys in tree: 8; Is 'cat' in tree? No; Is Doc in tree? Yes
+?                                           ^
++ After Insertions: Number of keys in tree: 7; Is 'cat' in tree? No; Is Doc in tree? Yes
+?                                           ^
+  
+  PREORDER tree traversal
+  Grumpy Doc Bashful Dopey Sleepy Happy Sneezy 
+  
+  INORDER tree traversal
+  Bashful Doc Dopey Grumpy Happy Sleepy Sneezy 
+  
+  POSTORDER tree traversal
+  Bashful Dopey Doc Happy Sneezy Sleepy Grumpy 
+  
+- After removing Grumpy: Number of keys in tree: 7; Is 'cat' in tree? No; Is Grumpy in tree? No
+?                                                ^
++ After removing Grumpy: Number of keys in tree: 6; Is 'cat' in tree? No; Is Grumpy in tree? No
+?                                                ^
+  
+  PREORDER tree traversal
+  Dopey Doc Bashful Sleepy Happy Sneezy 
+  
+  INORDER tree traversal
+  Bashful Doc Dopey Happy Sleepy Sneezy 
+  
+  POSTORDER tree traversal
+  Bashful Doc Happy Sneezy Sleepy Dopey 
+  
+- After removing Sleepy: Number of keys in tree: 6; Is 'cat' in tree? No; Is Sleepy in tree? No
+?                                                ^
++ After removing Sleepy: Number of keys in tree: 5; Is 'cat' in tree? No; Is Sleepy in tree? No
+?                                                ^
+  
+  PREORDER tree traversal
+  Dopey Doc Bashful Happy Sneezy 
+  
+  INORDER tree traversal
+  Bashful Doc Dopey Happy Sneezy 
+  
+  POSTORDER tree traversal
+  Bashful Doc Sneezy Happy Dopey 
+  
+- After removing Sneezy: Number of keys in tree: 5; Is 'cat' in tree? No; Is Sneezy in tree? No
+?                                                ^
++ After removing Sneezy: Number of keys in tree: 4; Is 'cat' in tree? No; Is Sneezy in tree? No
+?                                                ^
+  
+  PREORDER tree traversal
+  Dopey Doc Bashful Happy 
+  
+  INORDER tree traversal
+  Bashful Doc Dopey Happy 
+  
+  POSTORDER tree traversal
+  Bashful Doc Happy Dopey 
+  
+- After removing Doc: Number of keys in tree: 4; Is 'cat' in tree? No; Is Doc in tree? No
+?                                             ^
++ After removing Doc: Number of keys in tree: 3; Is 'cat' in tree? No; Is Doc in tree? No
+?                                             ^
+  
+  PREORDER tree traversal
+  Dopey Bashful Happy 
+  
+  INORDER tree traversal
+  Bashful Dopey Happy 
+  
+  POSTORDER tree traversal
+  Bashful Happy Dopey 
+  
+- After removing Bashful: Number of keys in tree: 3; Is 'cat' in tree? No; Is Bashful in tree? No
+?                                                 ^
++ After removing Bashful: Number of keys in tree: 2; Is 'cat' in tree? No; Is Bashful in tree? No
+?                                                 ^
+  
+  PREORDER tree traversal
+  Dopey Happy 
+  
+  INORDER tree traversal
+  Dopey Happy 
+  
+  POSTORDER tree traversal
+  Happy Dopey 
+  
+- After removing Dopey: Number of keys in tree: 2; Is 'cat' in tree? No; Is Dopey in tree? No
+?                                               ^
++ After removing Dopey: Number of keys in tree: 1; Is 'cat' in tree? No; Is Dopey in tree? No
+?                                               ^
+  
+  PREORDER tree traversal
+  Happy 
+  
+  INORDER tree traversal
+  Happy 
+  
+  POSTORDER tree traversal
+  Happy 
+  
+- After removing Happy: Number of keys in tree: 1; Is 'cat' in tree? No; Is Happy in tree? No
+?                                               ^
++ After removing Happy: Number of keys in tree: 0; Is 'cat' in tree? No; Is Happy in tree? No
+?                                               ^
+  
+  PREORDER tree traversal
+  
+- 
+  INORDER tree traversal
+  
+- 
+  POSTORDER tree traversal
+
