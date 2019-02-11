@@ -6,6 +6,11 @@ Teaching computer science through Python programming.
 
 This blog is based on an educational [Instagram](https://instagram.com/learn.py) account. Unique snippets of code are uploaded with in-depth explanations. Each post is relevant to a concept in either Python programming or Computer Science in general. The purpose of this blog is to provide a freely and easily accessible resource for Computer Science knowledge that is not typically found in other popular sources.
 
+* The `/img` folder contains Instagram images that have been posted
+* The `/src` folder contains some short Python scripts
+
+> NOTE: Not all posts on Instagram are uploaded to GitHub and not all uploads to GitHub are posted on Instagram. However, most are available on both.
+
 ## Contributors
 
 * [Gabriel Flores](https://github.com/rgabeflores)
