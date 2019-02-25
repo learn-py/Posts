@@ -4,7 +4,7 @@ Teaching computer science through Python programming.
 
 ## About
 
-This blog is based on an educational [Instagram](https://instagram.com/learn.py) account. Unique snippets of code are uploaded to social media with in-depth explanations of the hypothetical purpose and behavioral algorithm of each. Each post is relevant to a concept in either Python programming or general Computer Science. The idea of this blog is to provide a easily, freely, and openly accessible resource for Computer Science students and coding enthusiasts that is not typically found in other popular platforms.
+This blog is based on an educational [Instagram](https://instagram.com/learn.py) account. Unique snippets of code are uploaded to social media along with in-depth explanations of the hypothetical purpose and behavioral algorithm of each. Each post is relevant to a concept in either Python programming or general Computer Science. The idea of this blog is to provide a easily, freely, and openly accessible resource for Computer Science students and coding enthusiasts that is not typically found in other popular platforms.
 
 * The `/img` folder contains images that have been posted to Instagram
 * The `/src` folder contains short scripts written in Python
