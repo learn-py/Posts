@@ -13,6 +13,6 @@ This blog is based on an educational [Instagram](https://instagram.com/learn.py)
 
 ## Contributors
 
-* [Gabriel Flores](https://github.com/rgabeflores)
+* [Gabriel Flores](https://github.com/rgabeflores) - [LinkedIn](https://www.linkedin.com/in/rgabrielflores/)
 
 > This blog is intended to be a completely open-source project. If you would like to contribute, please contact me through [email](mailto:runpython18@gmail.com) or [Instagram](https://instagram.com/learn.py)
